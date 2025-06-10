@@ -8,9 +8,9 @@ Time spent: **1.5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Android Kotlin Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🐛🪲🔧**
 
 ## Application Features
 
@@ -18,26 +18,26 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] 👋 Debug and fix navigation to Hello World activity
-- [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [ ] 📅 Debug and fix Current Day activity 
-- [ ] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [x] 👋 Debug and fix navigation to Hello World activity
+- [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [x] 📅 Debug and fix Current Day activity 
+- [x] 🌈 Debug and fix behavior of Random Color activity
+- [x] 🗒️ Debug and fix Print List activity
+- [x] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
-- [ ] TODO
+- [x] TODO
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='MWyatt_Project2.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
